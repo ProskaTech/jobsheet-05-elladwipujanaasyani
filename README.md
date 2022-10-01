@@ -1,5 +1,11 @@
-## Object-oriented Programming (Lab Work) Template Guides
-1. Silakan anda upload file java hasil praktikum anda menggunakan NetBeans atau IDE/text editor lainnya dengan mengupload button ADD FILE
-2. Upload juga screenshot hasil latihan dan tugas anda dalam format .JPG atau .JPEG atau .PNG
-3. Setiap file java anda diharuskan untuk memiliki identitas anda dengan menggunakan komentar dengan format berikut "Created by NIM_Nama Lengkap" pada bagian paling atas setiap code anda. contoh: // Created by 1203232_Randi Proska Sandra
-4. Silakan anda edit file README.md ini dengan identitas anda juga serta berikan penjelasan terkait source code yang anda upload. Catatan: Jangan ubah nama file README.md
+//Created by 21343022_Ella Dwipujana Asyani
+
+Scanner1.java merupakan file latihan 1, menampilkan penggunaan kelas scanner ketika memasukkan data pada java
+
+Scanner2.java merupakan file latihan 2, menampilkan penggunaan kelas scanner ketika ada perhitungan matematika pada java
+
+GetInputFromKeyboard1.java merupakan file latihan 3, menampilkan penggunaan kelas BufferedReder pada java.
+
+BufferedReader1.java merupakan file latihan 4, menampilkan penggunaan kelas BufferedReader.
+
+GetInputFromKeyboard2.java merupakan file latihan 5, menampilkan penggunaan kelas JOptionPane pada kotak pesan dialog.
